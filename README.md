@@ -11,11 +11,14 @@
 
 _Formal Intro? Sure_
 
-_To start about me, I am a Computer Science Engineering grad from IIIT Nagpur with keen interest in Backend Development. My skill set comprises of Java, CPP, SQL and somewhat Android development (:P)._
+_To start about me, I'm a Backend Developer currently working as an SDE 2 at [Groww, India](https://www.groww.in). For the past two years, I’ve been building delightful and scalable systems in the Stocks domain, focusing on performance, reliability, and user experience._
 
-_Currently, I am working with [Groww, India](https://www.groww.in) as an SDE since last 2 years building user delight in Stocks. Also I have previously worked with [Turno](https://www.turno.club) for a span of 3 months as Backend Developer Intern. Always been in love with problem solving and DSA, and 
-now also fascinated by System Design and Software Architecture :)_
+_Earlier, I interned at [Turno](https://www.turno.club) as a Backend Developer, where I got hands-on exposure to building real-world applications._
 
+_I graduated in Computer Science Engineering from IIIT Nagpur, and I’ve always been passionate about problem-solving and DSA. These days, I’m also deeply into System Design and Software Architecture—crafting elegant solutions that scale well is my kind of fun._
+
+_When I’m not coding, I love exploring tech, discussing product ideas, or diving deep into clean architectures._
+_ I am a Computer Science Engineering grad from IIIT Nagpur with keen interest in Backend Development. My skill set comprises of Java, CPP, SQL and somewhat Android development (:P)._
 
 _Wish to get in touch? 
 Hit a message on - [linkedin:/sarthak-1609](https://www.linkedin.com/in/sarthak-1609/)_
